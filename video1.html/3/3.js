@@ -8,8 +8,9 @@ let b = 5;
 let c = 8;
 let d = '5';
 let e = +d;
-console.log(b === e, 'b: ', typeof b, 'd: ', typeof e)
+let g = +a;
+console.log(`ductranvan: b = ${b}, c+b = ${c+b}`)
+console.log(`hoi duc tran ${a}`)
 
-console.log('e value: ', e, 'typeof: ', typeof e)
 
 
